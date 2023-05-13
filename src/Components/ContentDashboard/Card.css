@@ -1,0 +1,42 @@
+.cards {
+  /* width: 320px;
+    height: 175px; */
+  /* flex-grow: 0; */
+  /* width:max-content; */
+  /* position:fixed; */
+  flex:1;
+  flex-basis: 0%;
+  justify-content: space-around;
+  padding: 20px;
+  flex-wrap: nowrap;
+  margin:2%;
+  border-radius: 12px;
+}
+.card1 {
+  background: #abcdff;
+}
+.card2 {
+  background: #b7aaff;
+}
+.card3 {
+  background: #ffe2ab;
+}
+.card4 {
+  background: #d7fba8;
+}
+
+.number {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.total {
+  font-size: medium;
+  font-weight: 600;
+}
+
+.last-update {
+  font-size: 16px;
+  font-weight: normal;
+  align-items:center;
+}

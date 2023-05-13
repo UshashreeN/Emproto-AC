@@ -1,0 +1,31 @@
+input {
+  border: none;
+  text-align: justify;
+  width: 100%;
+  height: "auto";
+  box-sizing: border-box;
+  background-color: transparent;
+  outline: none;
+}
+input[type=text]:focus {
+    color: orange;
+    outline: none;
+  }
+h1 {
+  margin: 0%;
+  font-weight: 700;
+  font-size:xx-large;
+}
+p {
+  margin: 0%;
+  font-weight: 500;
+  font-size: large;
+  color: #949494;
+}
+/* .dashboard{
+    width:fit-content;
+    height:fit-content;
+    display:flexbox;
+    align-items: flex-start;
+    text-align:left;
+} */

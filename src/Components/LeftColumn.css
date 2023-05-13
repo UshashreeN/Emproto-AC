@@ -1,0 +1,15 @@
+.left-column {
+  width: fit-content;
+  /* height:107.5vh; */
+  display: flex;
+  height:100vh;
+  flex-direction: column;
+  background-color: #faf7f2;
+  padding-right: 25px;
+  padding-top: 25px;
+}
+.left-column__logo {
+  margin: 10px 0px;
+  width: fit-content;
+  height: fit-content;
+}
